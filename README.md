@@ -1,1 +1,1 @@
-Descriptive example of static fragment lifecycle.
+Descriptive example of static fragments lifecycle.
