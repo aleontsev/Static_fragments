@@ -1,4 +1,4 @@
-Descriptive example of static fragments lifecycle.
+# Descriptive example of static fragments lifecycle.
 
 Callback Sequence: 
 
